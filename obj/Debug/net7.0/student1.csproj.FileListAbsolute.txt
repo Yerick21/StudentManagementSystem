@@ -1,0 +1,14 @@
+/Users/yerickgonzalez/Desktop/student1/bin/Debug/net7.0/student1
+/Users/yerickgonzalez/Desktop/student1/bin/Debug/net7.0/student1.deps.json
+/Users/yerickgonzalez/Desktop/student1/bin/Debug/net7.0/student1.runtimeconfig.json
+/Users/yerickgonzalez/Desktop/student1/bin/Debug/net7.0/student1.dll
+/Users/yerickgonzalez/Desktop/student1/bin/Debug/net7.0/student1.pdb
+/Users/yerickgonzalez/Desktop/student1/obj/Debug/net7.0/student1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yerickgonzalez/Desktop/student1/obj/Debug/net7.0/student1.AssemblyInfoInputs.cache
+/Users/yerickgonzalez/Desktop/student1/obj/Debug/net7.0/student1.AssemblyInfo.cs
+/Users/yerickgonzalez/Desktop/student1/obj/Debug/net7.0/student1.csproj.CoreCompileInputs.cache
+/Users/yerickgonzalez/Desktop/student1/obj/Debug/net7.0/student1.dll
+/Users/yerickgonzalez/Desktop/student1/obj/Debug/net7.0/refint/student1.dll
+/Users/yerickgonzalez/Desktop/student1/obj/Debug/net7.0/student1.pdb
+/Users/yerickgonzalez/Desktop/student1/obj/Debug/net7.0/student1.genruntimeconfig.cache
+/Users/yerickgonzalez/Desktop/student1/obj/Debug/net7.0/ref/student1.dll
